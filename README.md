@@ -12,6 +12,13 @@ Mind maps and quick references about crypto currency
 | ETH (Ethereum)| Ethereum  | PoW   |                   | 114,075,883|
 | XRP (Ripple)  |           |       | 100,000,000,000   | 45,425,790,652|
 
+# List of ERC-20 tokens
+
+| Name | Platform   | Consensus | Total supply | Circulating supply |
+|:-----|:---------  |:----------|-------------:|-------------------:|
+| YFI  | ERC-20     | PoW       | 30,000       | 29,969             |
+
+
 # Alternative sites for analysis
 
 1. [https://cryptorank.io/](https://cryptorank.io/)
