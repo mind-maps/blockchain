@@ -1,0 +1,108 @@
+@startmindmap
+center header
+Blockchain / Web3 - Landscape of applications
+endheader
+title Landscape of Block chain based Web3 applications 
+caption Block chain based applications - Mind Map - Updated on 2022-05-06
+center footer JoymonOnline
+* <&flag> Blockchain
+** Media
+*** NFT
+**** Market place
+***** General
+******_ [[https://en.wikipedia.org/wiki/PlantUML OpenSea]]
+******_ ([[https://www.youtube.com/watch?v=Zt3Bj1HMJ8g Rarible]])
+******_ [[https://en.wikipedia.org/wiki/Markdown Mintbase]]
+***** Video
+***** Audio
+******_ [[https://dopr.xyz dopr]]
+
+** Metaverse
+*** Gaming
+**** Games
+*****_ [[https://axieinfinity.com/ Axie]]
+*****_ [[https://www.decimated.net/ Decimated.net]]
+*****_ [[https://wagmigame.io WagmeGame]]
+**** Platform
+*****_ [[https://Luckyblock.com Luckyblock]]
+*** Real estate
+****_ [[https://notepad-plus-plus.org/ Decentraland]]
+****_ [[https://shib.io Shib]]
+
+** LifeStyle
+*** MoveToEarn
+****_ [[https://www.walkwithstep.io/ WalkWithStep]]
+****_ [[https://step.app/try-app step.app]]
+****_ StepN
+****_ [[https://calo.run Calo]]
+
+** Publishing
+*** Apps
+****_ [[https://pokt.network POKT]]
+*** Blogging
+****_ [[https://mirror.xyz/ mirror.xyz]]
+
+** Social media (Web3)
+*** [[https://console.xyz console.xyz]]
+
+** Finance
+*** Lending
+****_ [[https://trello.com/ AAVE]]
+****_ [[https://trello.com/ COMPOUND]]
+****_ [[https://trello.com/ CREAM]]
+*** Insurance 
+*** Renting
+**** computer resources
+*****_ [[https://rendertoken.com RenderToken]]
+** e-Commerce
+*** [[https://www.bosonprotocol.io/ Boson]]
+*** Record, edit, noise removal - [[https://www.audacityteam.org/download/ Audacity]]
+
+left side
+** Infrastructure
+*** Scaling
+*** Security
+**** Secret management
+**** Cyber security
+*****_ [[https://anchain.ai ANCHAIN.AI]] 
+*** Development
+**** platforms
+*****_ [[https://www.alchemy.com/ Alchemy]]
+**** APIs/Oracles
+*****_ [[https://nestprotocol.org nest propotocol]]
+*****_ [[https://api3.org api3]]
+**** PubSub
+** Identity 
+*** Domains
+****_ ENS
+****_ Unstoppable domains
+
+** Files
+***_ [[https://file.app/ File.App]]
+*** Web3 Storage providers
+****_ [[http://www.alldup.info/en_download_alldup.php Arweave]]
+****_ STORJ
+****_ [[https://winmerge.org/?lang=en IPFS]]
+*** FileCoin
+***_ [[https://web3.storage/ Web3.Storage]]
+
+** Dex
+*** Uniswap
+*** PancakeSwap
+
+** Office ([[https://medium.com/bankless-dao/daos-unlock-how-were-made-to-work-df84f747fbe DAO]])
+*** [[https://cultdao.io Cult.DAO]]
+*** [[https://www.onenote.com/ One Note]]
+*** Writing
+**** Tools
+*****_ [[https://hemingwayapp.com/ Hemingway]]
+*****_ [[https://quillbot.com/ QuillBot]]
+*****_ [[https://www.gingersoftware.com/ GingerSoftware]]
+
+legend right
+Left Side - Infrastructure and ecosystem projects.
+Right Side - Applications and utilities
+  
+endlegend
+
+@endmindmap
