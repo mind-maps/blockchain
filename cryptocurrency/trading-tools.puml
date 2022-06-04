@@ -1,0 +1,102 @@
+@startmindmap
+center header
+Blockchain based cryptocurrency - Landscape of trading tools
+endheader
+title Cryptocurrency trading tools
+center footer JoymonOnline
+* <&flag> Cryptocurrency Trading
+** Price tracking
+***_ [[https://coinmarketcap.com/ CoinMarketCap]]
+***_ [[https://www.coingecko.com/ CoinGecko]]
+***_ [[https://cryptorank.io/trending CryptoRank]]
+
+** Portfolio tracking
+*** Wallet & DeFi tracking
+****_ [[https://apeboard.finance Ape Board]]
+****_ [[https://debank.com/ DeBank]]
+****_ [[https://zapper.fi/ Zapper]]
+****_ [[https://tin.network/ Tin.Network]]
+****_ [[https://defiyield.app/dashboard Defi Yield]]
+***_ [[https://coinstats.app CoinStats]]
+** Visualizers, Charting
+***_ [[https://l2beat.com/ L2 Beat]]
+** Screener
+***_ [[https://dexscreener.com Dex Screener]]
+***_ [[https://messari.io/screener Messari]]
+** CEX
+*** Fees
+****_ [[https://withdrawalfees.com/ Withdrawal Fees]]
+*** Long and shorts
+**** [[https://twitter.com/WhaleTrades @WhaleTrades]]
+*** In and out flows
+** DEX
+*** Aggregator
+****_ [[https://defillama.com/ Defi Llama]]
+****_ [[https://tokensniffer.com/ Token Sniffer]]
+*** Farm discovery
+****_ [[https://app.apy.vision APY.vision]]
+****_ [[https://coindix.com/ Coindix]]
+****_ [[https://stakingrewards.com Stacking Rewards]]
+*** Pair discovery
+**** [[https://dextools.io DEXTools]]
+*** Charting
+****_ [[ https://dex.guru/ dex.guru]]
+*** IL Calculators
+****_ [[https://baller.netlify.app/ $Baller]]
+****_ [[https://dailydefi.org/tools/impermanent-loss-calculator/ DailyDefi Uniwswap]]
+*** Liquid Staking
+****_ [[https://lido.fi/ Lido.fi]]
+Left Side
+
+** Analysis
+***  Fundamental
+**** Development
+*****_ [[https://www.cryptomiso.com/months_3.html CryptoMiso - Commits]]
+**** ETH L2
+*****_ [[https://l2beat.com/?view=risk L2 Beat Risks]]
+*** Technical
+****_ [[https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/ Rainbow chart]]
+****_ [[https://www.lookintobitcoin.com/charts/bitcoin-logarithmic-growth-curve/ Logarithmic growth]]
+****_ [[https://cryptobubbles.net/ Crypto Bubbles]]
+**** Multicoin charts
+*****_ tradingview
+*****_ [[https://www.multicoincharts.com/ MultiCoinCharts]]
+**** Fees
+*****_ [[https://cryptofees.info/ Crypto Fees ]]
+*****_ [[https://fees.wtf/#/ Fees.WTF]]
+*** Chain analytics
+****_ [[https://studio.glassnode.com Glassnode]]
+****_ [[https://markets.chainalysis.com Chainalysis]]
+****_ [[https://txstreet.com/ TxStreet]]
+****_ [[https://www.nansen.ai/ nansen.ai]]
+****_ [[https://tokenterminal.com/ Token Terminal]]
+**** Whales
+*****_ [[https://www.whalestats.com/analysis-of-the-top-100-eth-wallets WhaleStats]]
+*****_ [[https://twitter.com/whale_alert @Whale_Alert]]
+*** Safety
+****_ [[https://www.certik.com/ CERTIK]]
+/' ** APIs
+*** Chain
+****_ [[https://nownodes.io/pricing NowNodes]]
+'/
+** Bots
+***_ [[https://www.cryptohopper.com/ Crypto Hopper]]
+***_ [[https://www.pionex.com/ Pionex]]
+** Market sentiment
+*** Fear & Greed Index
+****_ [[https://www.lookintobitcoin.com/charts/bitcoin-fear-and-greed-index/ look into bitcoin]]
+****_ [[https://btctools.io/stats/crypto-fear-and-greed-index BTC Tools]]
+***_ [[https://lunarcrush.com/markets LunarCrush]]
+** Event tracking
+*** [[https://coinmarketcal.com CoinMarketCal]]
+*** [[https://apeoclock.com Ape O' Clock]]
+
+legend right
+Left Side - Infrastructure and ecosystem projects.
+Right Side - Applications and utilities
+The tools are either free or freemium
+Other aggregators like this - [[https://0xilluminati.com/1f3a72793fc64eaca86f19a655610d94 0xilluminati]]
+endlegend
+caption Block chain based applications - Mind Map - Updated on 2022-05-06
+
+@endmindmap

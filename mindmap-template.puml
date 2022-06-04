@@ -1,0 +1,20 @@
+@startmindmap
+center header
+My header
+endheader
+title My title
+center footer JoymonOnline
+* <&flag> Start
+** Right side
+Left Side
+** LeftSide
+***_ Single line
+
+legend right
+Left Side - Infrastructure and ecosystem projects.
+Right Side - Applications and utilities
+  
+endlegend
+caption This is caption - Mind Map - Updated on 2022-05-06
+
+@endmindmap
