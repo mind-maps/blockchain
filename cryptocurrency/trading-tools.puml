@@ -3,7 +3,6 @@ center header
 Blockchain based cryptocurrency - Landscape of trading tools
 endheader
 title Cryptocurrency trading tools
-center footer JoymonOnline
 * <&flag> Cryptocurrency Trading
 ** Price tracking
 ***_ [[https://coinmarketcap.com/ CoinMarketCap]]
@@ -98,6 +97,7 @@ Other aggregators like this - [[https://0xilluminati.com/1f3a72793fc64eaca86f19a
 To [[https://docs.github.com/en/get-started/quickstart/contributing-to-projects contribute via Pull Requests]] visit [[https://github.com/mind-maps/blockchain the GitHub repo]]
 
 endlegend
-caption [[https://github.com/joymon JoymonOnline] [[https://mind-maps.github.io Mind maps]] - Cryptocurrency trading tools - Updated on 2022-06-03
+caption  Cryptocurrency trading tools - Updated on 2022-06-03
+center footer [[https://github.com/joymon JoymonOnline] [[https://mind-maps.github.io Mind maps]] 
 
 @endmindmap
